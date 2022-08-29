@@ -13,7 +13,7 @@ universityCourse() Netscript Function
         Name of course. Not case-sensitive.
 
         * Study Computer Science
-        * Data Strucures
+        * Data Structures
         * Networks
         * Algorithms
         * Management
